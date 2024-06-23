@@ -1,1 +1,10 @@
 pandas==2.1.0
+polars==0.19.15
+sqlalchemy
+fastparquet
+fastavro
+psycopg2-binary
+apache-airflow
+openpyxl
+xlrd
+python-snappy
